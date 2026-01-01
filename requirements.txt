@@ -1,0 +1,9 @@
+langchain-google-genai
+langgraph
+langchain-core
+sqlalchemy
+pandas
+python-dotenv
+pymysql
+streamlit
+pillow
