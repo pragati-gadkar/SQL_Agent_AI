@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack
 
 - **AI Orchestration**: LangChain & LangGraph
-- **LLM**: Google Gemini 1.5 Flash
+- **LLM**: Google Gemini 2.5 Flash
 - **Database**: MySQL with SQLAlchemy ORM
 - **Frontend**: Streamlit
 - **Data Handling**: Pandas
